@@ -21,7 +21,6 @@ jobs:
         server-username: REPOSITORY_SERVER_USER
         server-password: REPOSITORY_SERVER_PASSWORD
         settings-path: ${{ github.workspace }}
-        cache: 'maven'
 
     - name: TEST
       run: cat $GITHUB_WORKSPACE/settings.xml
