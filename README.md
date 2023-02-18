@@ -1,1 +1,1 @@
-# github-package-sample-parenet
+# github-package-sample-parent
